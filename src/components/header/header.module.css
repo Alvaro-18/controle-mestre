@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  gap: 40%;
+  align-items: center;
+  width: 100vw;
+  background-color: #bf702a;
+  text-align: center;
+  padding: 12px 0;
+  border-radius: 0 0 12px 12px;
+  margin-bottom: 130px;
+  font-size: 20px;
+}
